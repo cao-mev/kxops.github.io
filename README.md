@@ -1,11 +1,4 @@
 
-title: "Hello World：在比特与文字之间"
-date: 2026-02-09T22:45:00+08:00
-draft: false
-tags: ["随笔", "文字"]
-categories: ["生活"]
----
-
 ### 序言
 
 这是我在 Hugo 上的第一篇正式文章。程序员习惯用 "Hello World" 开启新世界，丈量土地。
